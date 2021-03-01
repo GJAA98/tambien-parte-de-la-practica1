@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\bin\Debug\netcoreapp3.1\Practica_tabla_multiplicar.exe
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\bin\Debug\netcoreapp3.1\Practica_tabla_multiplicar.deps.json
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\bin\Debug\netcoreapp3.1\Practica_tabla_multiplicar.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\bin\Debug\netcoreapp3.1\Practica_tabla_multiplicar.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\bin\Debug\netcoreapp3.1\Practica_tabla_multiplicar.dll
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\bin\Debug\netcoreapp3.1\Practica_tabla_multiplicar.pdb
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\obj\Debug\netcoreapp3.1\Practica_tabla_multiplicar.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\obj\Debug\netcoreapp3.1\Practica_tabla_multiplicar.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\obj\Debug\netcoreapp3.1\Practica_tabla_multiplicar.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\obj\Debug\netcoreapp3.1\Practica_tabla_multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\obj\Debug\netcoreapp3.1\Practica_tabla_multiplicar.dll
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\obj\Debug\netcoreapp3.1\Practica_tabla_multiplicar.pdb
+C:\Users\YeisonPX\source\repos\Practica_tabla_multiplicar\Practica_tabla_multiplicar\obj\Debug\netcoreapp3.1\Practica_tabla_multiplicar.genruntimeconfig.cache

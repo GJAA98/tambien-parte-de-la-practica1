@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practica_tabla_multiplicar/1.0.0": {
+        "runtime": {
+          "Practica_tabla_multiplicar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica_tabla_multiplicar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
